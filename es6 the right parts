@@ -1,1 +1,12 @@
-es6 the right parts
+Arrow function
+
+=>
+
+// replaces 'function'
+
+foo 
+
+function foo() {
+
+
+}
