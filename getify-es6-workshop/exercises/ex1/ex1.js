@@ -1,9 +1,10 @@
-var x = 2, fns = [];
+const x = 2;
+var fns = [];
 
 (function(){
-	var x = 5;
+	let x = 5;
 
-	for (var i=0; i<x; i++) {
+	for (let i=0; i<x; i++) {
 		// ..
 	}
 })();
